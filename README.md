@@ -4,10 +4,11 @@
 **Domain:** Java Programming<br>
 **Duration:** Dec 17th 2024 to Jan 17th 2025<br>
 ## Overview of the project
-## PROJECT: SIMPLE CALCULATOR
+## PROJECT: STUDENT GRADE TRACKER
 ## Objective: 
- The objective of the project is to Create a Java program that acts as a basic calculator. It should prompt the user to
-enter two numbers and choose an operation (addition, subtraction, multiplication,
-division).
+ The objective of the project is to Develop a Java program to track and manage student grades. The
+program should allow the user to input grades for different subjects or
+assignments, calculate the average grade, and display the overall
+grade along with any additional information
 ## technologies used
 **java:** It is used to develop a mobile applications
