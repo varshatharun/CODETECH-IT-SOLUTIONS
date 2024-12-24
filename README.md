@@ -1,7 +1,7 @@
 **Name:** MITTAPALLI VARSHA<br>
 **company:** CODTECH IT SOLUTIONS<br>
-**ID:**CT08ERP<br>
-**Domain:**  Java Programming<br>
+**ID:** CT08ERP<br>
+**Domain:** Java Programming<br>
 **Duration:** Dec 17th 2024 to Jan 17th 2025<br>
 ## Overview of the project
 ## PROJECT: SIMPLE CALCULATOR
