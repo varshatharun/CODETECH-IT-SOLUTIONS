@@ -1,17 +1,12 @@
-# CODTECH-Task2
-Student Grade Tracker Using Java 
-
-**Name**: Aditi Kushwaha
+**Name**: MITTAPALLI VARSHA
 
 **Company**: CODTECH IT SOLUTIONS
 
-**ID**: CT04JP2305
+**ID**:CT08ERP
 
 **Domain Name**: Java Programing
 
-**Duration**: 15 June to 15 July 2024
-
-**Mentor**: Sravani Gouni
+**Duration**:17 Dec 2024 to 27 Jan 2025
 
 ## OVERVIEW OF PROJECT
 
